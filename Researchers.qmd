@@ -3,7 +3,8 @@
 title: "Researchers"
 ---
 
-# Prof. A. Bekker
+# Prof. A. Bekker \label{abekker}
+
 # Dr. L. Chaka
 # Mrs. L.E. Coetser
 # Dr. G. Crafford
@@ -37,7 +38,7 @@ title: "Researchers"
 # Dr. A. Whata
 
 # Prof. J. van Niekerk
-My research areas are Bayesian methods, Biostatistics, Spatial Statistics and Computational Statistics. Most of my work has been at the intersection between statistical methods and the computing of those methods. My Google Scholar is available at https://scholar.google.com/citations?user=LVqMNKQAAAAJ&hl=en&oi=ao.
+My research areas are Bayesian methods, Biostatistics, Spatial Statistics and Computational Statistics. Most of my work has been at the intersection between statistical methods and the computing of those methods. My Google Scholar is available \href{here}{https://scholar.google.com/citations?user=LVqMNKQAAAAJ&hl=en&oi=ao}.
 I have projects available but also get excited by your project ideas - so feel free to bring your own!
 
 I have three projects spaces available for 2026.
