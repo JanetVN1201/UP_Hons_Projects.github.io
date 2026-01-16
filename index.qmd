@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+---
+
+## Hello 👋
+
+This is a GitHub Pages website built with **R and Quarto**.
+
+## Example R code
+
+```{r}
+set.seed(123)
+x <- rnorm(100)
+
+summary(x)
