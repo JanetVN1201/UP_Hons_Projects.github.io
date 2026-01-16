@@ -1,0 +1,8 @@
+
+---
+title: "About"
+---
+
+This website is maintained by **Janet van Niekerk**.
+
+It demonstrates how to use **R for reproducible websites** hosted on GitHub Pages.
