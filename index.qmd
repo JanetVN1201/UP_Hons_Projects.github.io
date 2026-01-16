@@ -7,68 +7,51 @@ title: "Welcome"
 This website contains information on the research active groups and researchers within the Department of Statistics at the University of Pretoria.
 Use this information to apply for a project hosted by a specific researcher using the Application tab.
 
-## List of researchers and research groups
 
-[Prof. A. Bekker](Researchers.qmd#abekker)
+```{r, echo = F}
+#| message: false
+#| warning: false
 
-Dr. L. Chaka
+library(plotly)
 
-Mrs. L.E. Coetser
+set.seed(123)
 
-Dr. G. Crafford
+n <- 300
+x1 <- runif(n, -2, 2)
+x2 <- runif(n, -2, 2)
+y  <- 1 + 2*x1 - x2 + rnorm(n, 0, 0.5)
 
-Mr. M.S. De Lancey
+df <- data.frame(x1, x2, y)
 
-Dr. R. Ehlers
+fit <- lm(y ~ x1 + x2)
 
-Prof. I.N. Fabris-Rotelli
+grid <- expand.grid(
+  x1 = seq(-2, 2, length = 40),
+  x2 = seq(-2, 2, length = 40)
+)
+grid$yhat <- predict(fit, grid)
 
-Mr. T.J.E. Harris
+plot_ly() |>
+  add_markers(
+    data = df,
+    x = ~x1, y = ~x2, z = ~y,
+    marker = list(size = 3),
+    name = "Observed data"
+  ) |>
+  add_surface(
+    x = matrix(grid$x1, 40),
+    y = matrix(grid$x2, 40),
+    z = matrix(grid$yhat, 40),
+    opacity = 0.7,
+    name = "Fitted surface"
+  ) |>
+  layout(
+    title = "3D Linear Regression Surface",
+    scene = list(
+      xaxis = list(title = "X₁"),
+      yaxis = list(title = "X₂"),
+      zaxis = list(title = "Y")
+    )
+  )
 
-Ms. P.H.G. Jafta
-
-Prof. F.H.J. Kanfer
-
-Dr. J. Kleyn
-
-Mr. A.R. Kleynhans
-
-Dr. I.A. Maharela
-
-Dr. K. Mahloromela
-
-Dr. S.L. Makgai
-
-Dr. M.J.C. Malela
-
-Prof. S. Manda
-
-Prof. S.M. Millard
-
-Dr. N. Nakhaeirad
-
-Dr. B.V. Otieno Mac'Oduol
-
-Dr. A.F. Otto
-
-Mr. J. Pillay
-
-Ms. C. Retief
-
-Dr. S.B. Skhosana
-
-Dr. R. Stander
-
-Dr. R.N. Thiede
-
-Dr. A. van der Merwe
-
-[Prof. J. van Niekerk](Researchers.qmd#jvanniekerk)
-
-Dr. P.J. van Staden
-
-Mr. A. van Wyk
-
-Mrs. L. Venter
-
-Dr. A. Whata
+```

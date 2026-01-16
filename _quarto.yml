@@ -10,6 +10,8 @@ website:
         text: Home
       - href: Researchers.qmd
         text: Researchers
+      - href: app.qmd
+        text: Application
       - href: about.qmd
         text: About
 
