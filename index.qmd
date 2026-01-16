@@ -9,8 +9,7 @@ Use this information to apply for a project hosted by a specific researcher usin
 
 ## List of researchers and research groups
 
-Prof. A. Bekker \\
-\ref{abekker}
+@abekker
 Dr. L. Chaka\\
 Mrs. L.E. Coetser\\
 Dr. G. Crafford\\

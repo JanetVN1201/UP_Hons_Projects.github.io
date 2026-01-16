@@ -3,7 +3,7 @@
 title: "Researchers"
 ---
 
-# Prof. A. Bekker \label{abekker}
+# Prof. A. Bekker {#abekker}
 
 # Dr. L. Chaka
 # Mrs. L.E. Coetser

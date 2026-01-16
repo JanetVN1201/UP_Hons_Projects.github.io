@@ -68,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -179,7 +150,7 @@ window.Quarto = {
 </section>
 <section id="list-of-researchers-and-research-groups" class="level2">
 <h2 class="anchored" data-anchor-id="list-of-researchers-and-research-groups">List of researchers and research groups</h2>
-<p>Prof.&nbsp;A. Bekker \ <span class="math inline">\(\ref{abekker}\)</span> Dr.&nbsp;L. Chaka\ Mrs.&nbsp;L.E. Coetser\ Dr.&nbsp;G. Crafford\ Mr.&nbsp;M.S. De Lancey\ Dr.&nbsp;R. Ehlers\ Prof.&nbsp;I.N. Fabris-Rotelli\ Mr.&nbsp;T.J.E. Harris\ Ms.&nbsp;P.H.G. Jafta\ Prof.&nbsp;F.H.J. Kanfer\ Dr.&nbsp;J. Kleyn\ Mr.&nbsp;A.R. Kleynhans\ Dr.&nbsp;I.A. Maharela\ Dr.&nbsp;K. Mahloromela\<br>
+<p><span class="citation" data-cites="abekker">@abekker</span> Dr.&nbsp;L. Chaka\ Mrs.&nbsp;L.E. Coetser\ Dr.&nbsp;G. Crafford\ Mr.&nbsp;M.S. De Lancey\ Dr.&nbsp;R. Ehlers\ Prof.&nbsp;I.N. Fabris-Rotelli\ Mr.&nbsp;T.J.E. Harris\ Ms.&nbsp;P.H.G. Jafta\ Prof.&nbsp;F.H.J. Kanfer\ Dr.&nbsp;J. Kleyn\ Mr.&nbsp;A.R. Kleynhans\ Dr.&nbsp;I.A. Maharela\ Dr.&nbsp;K. Mahloromela\<br>
 Dr.&nbsp;S.L. Makgai\ Dr.&nbsp;M.J.C. Malela\ Prof.&nbsp;S. Manda\ Prof.&nbsp;S.M. Millard\ Dr.&nbsp;N. Nakhaeirad\ Dr.&nbsp;B.V. Otieno Mac’Oduol\ Dr.&nbsp;A.F. Otto\ Mr.&nbsp;J. Pillay\ Ms.&nbsp;C. Retief\ Dr.&nbsp;S.B. Skhosana\ Dr.&nbsp;R. Stander\ Dr.&nbsp;R.N. Thiede\ Dr.&nbsp;A. van der Merwe\ Prof.&nbsp;J. van Niekerk\ Dr.&nbsp;P.J. van Staden\ Mr.&nbsp;A. van Wyk\ Mrs.&nbsp;L. Venter\ Dr.&nbsp;A. Whata</p>
 
 
