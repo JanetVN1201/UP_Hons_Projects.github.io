@@ -1,0 +1,8 @@
+
+---
+title: "Researchers"
+---
+
+# Janet van Niekerk
+My research areas are Bayesian methods, Biostatistics, Spatial Statistics and Computational Statistics. Most of my work has been at the intersection between methods and computing of those methods. 
+{{< video https://www.youtube.com/watch?v=UM7-TaNsUhU >}}
