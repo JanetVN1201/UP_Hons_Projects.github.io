@@ -4,27 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This website is maintained by Janet van Niekerk.\nIt demonstrates how to use R for reproducible websites hosted on GitHub Pages."
+    "text": "This website is maintained by Janet van Niekerk (janet.vanNiekerk@up.ac.za)\nIt is used to host the Honours research projects information for the Department of Statistics at the University of Pretoria."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "This is a GitHub Pages website built with R and Quarto."
+    "text": "This website contains information on the research active groups and researchers within the Department of Statistics at the University of Pretoria. Use this information to apply for a project hosted by a specific researcher using the Application tab."
   },
   {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
+    "objectID": "index.html#honours-in-statistics-at-up",
+    "href": "index.html#honours-in-statistics-at-up",
     "title": "Welcome",
     "section": "",
-    "text": "This is a GitHub Pages website built with R and Quarto."
+    "text": "This website contains information on the research active groups and researchers within the Department of Statistics at the University of Pretoria. Use this information to apply for a project hosted by a specific researcher using the Application tab."
   },
   {
-    "objectID": "index.html#example-r-code",
-    "href": "index.html#example-r-code",
+    "objectID": "index.html#list-of-reserachers-and-research-groups",
+    "href": "index.html#list-of-reserachers-and-research-groups",
     "title": "Welcome",
-    "section": "Example R code",
-    "text": "Example R code\nset.seed(123) x &lt;- rnorm(100)\nsummary(x)"
+    "section": "List of reserachers and research groups",
+    "text": "List of reserachers and research groups"
   }
 ]
