@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Researchers.html",
+    "href": "Researchers.html",
+    "title": "Researchers",
     "section": "",
-    "text": "This website is maintained by Janet van Niekerk (janet.vanNiekerk@up.ac.za)\nIt is used to host the Honours research projects information for the Department of Statistics at the University of Pretoria."
+    "text": "Janet van Niekerk\nMy research areas are Bayesian methods, Biostatistics, Spatial Statistics and Computational Statistics. Most of my work has been at the intersection between methods and computing of those methods."
   },
   {
     "objectID": "index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome",
     "section": "List of reserachers and research groups",
     "text": "List of reserachers and research groups"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website is maintained by Janet van Niekerk (janet.vanNiekerk@up.ac.za)\nIt is used to host the Honours research projects information for the Department of Statistics at the University of Pretoria."
   }
 ]
