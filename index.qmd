@@ -2,14 +2,10 @@
 title: "Welcome"
 ---
 
-## Hello 👋
+## Honours in Statistics at UP
 
-This is a GitHub Pages website built with **R and Quarto**.
+This website contains information on the research active groups and researchers within the Department of Statistics at the University of Pretoria.
+Use this information to apply for a project hosted by a specific researcher using the Application tab.
 
-## Example R code
+## List of reserachers and research groups
 
-```{r}
-set.seed(123)
-x <- rnorm(100)
-
-summary(x)

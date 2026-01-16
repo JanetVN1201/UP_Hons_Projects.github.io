@@ -3,6 +3,6 @@
 title: "About"
 ---
 
-This website is maintained by **Janet van Niekerk**.
+This website is maintained by **Janet van Niekerk** (janet.vanNiekerk@up.ac.za)
 
-It demonstrates how to use **R for reproducible websites** hosted on GitHub Pages.
+It is used to host the Honours research projects information for the Department of Statistics at the University of Pretoria.
