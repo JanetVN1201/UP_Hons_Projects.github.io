@@ -9,35 +9,66 @@ Use this information to apply for a project hosted by a specific researcher usin
 
 ## List of researchers and research groups
 
-@abekker
-Dr. L. Chaka\\
-Mrs. L.E. Coetser\\
-Dr. G. Crafford\\
-Mr. M.S. De Lancey\\
-Dr. R. Ehlers\\
-Prof. I.N. Fabris-Rotelli\\ 
-Mr. T.J.E. Harris\\
-Ms. P.H.G. Jafta\\
-Prof. F.H.J. Kanfer\\
-Dr. J. Kleyn\\
-Mr. A.R. Kleynhans\\
-Dr. I.A. Maharela\\	
-Dr. K. Mahloromela\\	
-Dr. S.L. Makgai\\
-Dr. M.J.C. Malela\\
-Prof. S. Manda\\
-Prof. S.M. Millard\\
-Dr. N. Nakhaeirad\\
-Dr. B.V. Otieno Mac'Oduol\\
-Dr. A.F. Otto\\
-Mr. J. Pillay\\
-Ms. C. Retief\\
-Dr. S.B. Skhosana\\
-Dr. R. Stander\\
-Dr. R.N. Thiede\\
-Dr. A. van der Merwe\\
-Prof. J. van Niekerk\\
-Dr. P.J. van Staden\\
-Mr. A. van Wyk\\
-Mrs. L. Venter\\
+[Prof. A. Bekker](Researchers.qmd#abekker)
+
+Dr. L. Chaka
+
+Mrs. L.E. Coetser
+
+Dr. G. Crafford
+
+Mr. M.S. De Lancey
+
+Dr. R. Ehlers
+
+Prof. I.N. Fabris-Rotelli
+
+Mr. T.J.E. Harris
+
+Ms. P.H.G. Jafta
+
+Prof. F.H.J. Kanfer
+
+Dr. J. Kleyn
+
+Mr. A.R. Kleynhans
+
+Dr. I.A. Maharela
+
+Dr. K. Mahloromela
+
+Dr. S.L. Makgai
+
+Dr. M.J.C. Malela
+
+Prof. S. Manda
+
+Prof. S.M. Millard
+
+Dr. N. Nakhaeirad
+
+Dr. B.V. Otieno Mac'Oduol
+
+Dr. A.F. Otto
+
+Mr. J. Pillay
+
+Ms. C. Retief
+
+Dr. S.B. Skhosana
+
+Dr. R. Stander
+
+Dr. R.N. Thiede
+
+Dr. A. van der Merwe
+
+[Prof. J. van Niekerk](Researchers.qmd#jvanniekerk)
+
+Dr. P.J. van Staden
+
+Mr. A. van Wyk
+
+Mrs. L. Venter
+
 Dr. A. Whata

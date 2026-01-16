@@ -5,7 +5,7 @@ title: "Researchers"
 
 # Prof. A. Bekker {#abekker}
 
-# Dr. L. Chaka
+# Dr. L. Chaka {#lchaka}
 # Mrs. L.E. Coetser
 # Dr. G. Crafford
 # Mr. M.S. De Lancey
@@ -31,16 +31,17 @@ title: "Researchers"
 # Dr. R. Stander
 # Dr. R.N. Thiede
 # Dr. A. van der Merwe
-# Prof. J. van Niekerk
-# Dr. P.J. van Staden
-# Mr. A. van Wyk
-# Mrs. L. Venter
-# Dr. A. Whata
+# Prof. J. van Niekerk {#jvanniekerk}
 
-# Prof. J. van Niekerk
 My research areas are Bayesian methods, Biostatistics, Spatial Statistics and Computational Statistics. Most of my work has been at the intersection between statistical methods and the computing of those methods. My Google Scholar is available \href{here}{https://scholar.google.com/citations?user=LVqMNKQAAAAJ&hl=en&oi=ao}.
 I have projects available but also get excited by your project ideas - so feel free to bring your own!
 
 I have three projects spaces available for 2026.
 
 {{< video https://www.youtube.com/watch?v=UM7-TaNsUhU >}}
+
+# Dr. P.J. van Staden
+# Mr. A. van Wyk
+# Mrs. L. Venter
+# Dr. A. Whata
+
