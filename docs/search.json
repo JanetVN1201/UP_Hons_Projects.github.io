@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website is maintained by Janet van Niekerk.\nIt demonstrates how to use R for reproducible websites hosted on GitHub Pages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is a GitHub Pages website built with R and Quarto."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is a GitHub Pages website built with R and Quarto."
+  },
+  {
+    "objectID": "index.html#example-r-code",
+    "href": "index.html#example-r-code",
+    "title": "Welcome",
+    "section": "Example R code",
+    "text": "Example R code\nset.seed(123) x &lt;- rnorm(100)\nsummary(x)"
+  }
+]
