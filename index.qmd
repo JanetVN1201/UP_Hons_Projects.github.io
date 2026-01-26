@@ -4,9 +4,10 @@ title: "Welcome"
 
 ## Honours in Statistics at UP
 
-This website contains information on the research active groups and researchers within the Department of Statistics at the University of Pretoria.
+![](regression.gif){width=20% .center} This website contains information on the research active groups and researchers within the Department of Statistics at the University of Pretoria.
 Use this information to apply for a project hosted by a specific researcher using the Application tab.
 
+Please note the availablity of the researchers for discussion regarding topics and research on the [Researchers page](Researchers.qmd)
 
 ```{r, echo = F}
 #| message: false
@@ -53,5 +54,6 @@ plot_ly() |>
       zaxis = list(title = "Y")
     )
   )
+
 
 ```

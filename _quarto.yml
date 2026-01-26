@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "University of Pretoria, Honours Projects Website"
+  title: "UP Honours Projects"
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    respect-user-color-scheme: true
+    theme: 
+      light: flatly
+      dark: darkly
     toc: true
