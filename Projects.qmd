@@ -3,4 +3,8 @@
 title: "Projects"
 ---
 
-1. ABC in Disease mapping models by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
+1. ABC for Disease mapping models by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
+2. Machine learning for ABC by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
+3. Variational inference for spatial models by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
+4. Non-linear association joint models for clinical trials by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
+5. Variational inference for lifetime data by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
