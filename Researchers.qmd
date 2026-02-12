@@ -14,7 +14,9 @@ title: "Researchers"
 # Mr. T.J.E. Harris 
 # Ms. P.H.G. Jafta
 # Prof. F.H.J. Kanfer
-# Dr. J. Kleyn
+# Dr. J. Kleyn {#jkleyn}
+My research interest are in shrinkage and regularised methods for statistical models. Please see my webpage [here](https://www.up.ac.za/statistics/dr-judy-kleyn). 
+
 # Mr. A.R. Kleynhans
 # Dr. I.A. Maharela	
 # Dr. K. Mahloromela	
@@ -32,11 +34,11 @@ title: "Researchers"
 # Dr. R.N. Thiede
 # Dr. A. van der Merwe
 # Prof. J. van Niekerk {#jvanniekerk}
-
-My research areas are Bayesian methods, Biostatistics, Spatial Statistics and Computational Statistics. Most of my work has been at the intersection between statistical methods and the computing of those methods. My Google Scholar is available [here](https://scholar.google.com/citations?user=LVqMNKQAAAAJ&hl=en&oi=ao).
+My research areas are Bayesian methods, Biostatistics, Spatial Statistics and Computational Statistics. Most of my work has been at the intersection between statistical methods and the computing of those methods. I am a developer of three R packages; INLA, INLAjoint and graphpcor.
+My Google Scholar is available [here](https://scholar.google.com/citations?user=LVqMNKQAAAAJ&hl=en&oi=ao).
 I have projects available but also get excited by your project ideas - so feel free to bring your own!
 
-I have three projects spaces available for 2026.
+I have four projects spaces available for 2026.
 
 # Dr. P.J. van Staden
 # Mr. A. van Wyk
