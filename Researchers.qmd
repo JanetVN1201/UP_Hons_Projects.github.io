@@ -22,7 +22,8 @@ My research interest are in shrinkage and regularised methods for statistical mo
 # Dr. K. Mahloromela	
 # Dr. S.L. Makgai	
 # Dr. M.J.C. Malela
-# Prof. S. Manda
+# Prof. S. Manda {#smanda}
+
 # Prof. S.M. Millard
 # Dr. N. Nakhaeirad
 # Dr. B.V. Otieno Mac'Oduol
@@ -38,7 +39,7 @@ My research areas are Bayesian methods, Biostatistics, Spatial Statistics and Co
 My Google Scholar is available [here](https://scholar.google.com/citations?user=LVqMNKQAAAAJ&hl=en&oi=ao).
 I have projects available but also get excited by your project ideas - so feel free to bring your own!
 
-I have four projects spaces available for 2026.
+I have four project spaces available for 2026.
 
 # Dr. P.J. van Staden
 # Mr. A. van Wyk

@@ -3,9 +3,14 @@
 title: "Projects"
 ---
 
+1. Spatial Zero-Inflated Beta Distribution Regression Modeling by [Andriëtte Bekker](Researchers.qmd#abekker)
+1. A Robust variance inflated spatial regression model for proportions by [Andriëtte Bekker](Researchers.qmd#abekker)
 1. The reliability of OLS regression in large-scale observational data when multicollinearity is present by [Judy Kleyn](Researchers.qmd#jkleyn)
 1. Shrinkage versus sparsity in feature selection: Evidence from simulation studies by [Judy Kleyn](Researchers.qmd#jkleyn)
 1. Dealing with outliers in regression modelling: OLS versus quantile regression by [Judy Kleyn](Researchers.qmd#jkleyn)
+1. A Comparative Analysis of Cluster-Specific and Population-Averaged Approaches for Analysing Correlated Binary Data by [Samuel Manda](Researchers.qmd#smanda)
+1. Finite Sample Performance of Bootstrap and Asymptotic Confidence Intervals by [Samuel Manda](Researchers.qmd#smanda)
+1. Validity of Statistical Inference Following Data-Driven Model Selection by [Samuel Manda](Researchers.qmd#smanda)
 1. ABC for Disease mapping models by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
 1. Machine learning for ABC by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
 1. Non-linear association joint models for clinical trials by [Janet van Niekerk](Researchers.qmd#jvanniekerk)
