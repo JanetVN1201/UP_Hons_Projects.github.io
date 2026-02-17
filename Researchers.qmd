@@ -89,7 +89,7 @@ portfolio classification, and biological data analysis. Model-based clustering, 
 Gaussian mixture models and Gaussian mixture regression, provides a principled probabilistic
 framework for identifying latent group structures while accounting for uncertainty in cluster
 membership. In addition, I also have an interest in partition based clustering and hierarchical
-clustering.
+clustering. For more information see [here](https://drive.google.com/file/d/1SWd-uY07sZWQ5NUg6jLVYH_dezDwgM8w/view?usp=sharing).
 
 # Prof. N. Nakhaeirad {#najmeh}
 My research focuses on three main areas: directional statistics, biostatistics, and machine learning. In relation to the proposed topics, my work in directional statistics specifically emphasises the development of new methodology for circular, cylindrical, and toroidal data. My research advances statistical theory and computation for complex periodic observations, such as wind direction, solar orientation, protein dihedral angles, and turning angles in animal movement, to support practical solutions in renewable energy, public health (computational biology and protein structure validation), and wildlife conservation and tourism. I lead two research groups at the University of Pretoria: [AdvDS@UP: Advances in Directional Statistics](https://www.up.ac.za/statistics/advdsup-advances-directional-statistics), and  [ML4HS@UP: Machine learning for health sciences](https://www.up.ac.za/statistics/ml4hsup-machine-learning-health-sciences). My Google Scholar profile is available [here](https://scholar.google.com/citations?user=vuI2p9UAAAAJ&hl=en).
