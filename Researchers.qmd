@@ -7,6 +7,8 @@ title: "Researchers"
 Data is full of surprises, and I’m here to uncover them. I focus on modern statistical challenges and building tools that make a real impact. If you’re eager to learn by doing, tackle interesting problems, and have fun along the way, you’ll feel at home in our [D.A.T.A. research group](https://datagroup.netlify.app/).
 
 # Dr. L. Chaka {#lchaka}
+My research interests are Statistical Process control, Optimization, Design of experiments and Machine learning. My 
+Google Scholar is [here](https://scholar.google.com/citations?user=eCogaLQAAAAJ&hl=en) and my ResearchGate profile is [here](https://www.researchgate.net/profile/Jean-Claude-Malela-Majika?ev=hdr_xprf).
 
 # Mrs. L.E. Coetser {#lcoetser}
 My research interests are in statistics in education. I have two projects available within this field for 2026.
@@ -24,7 +26,8 @@ I am part of the [SpatialLab@UP](https://www.up.ac.za/statistics/spatiallabup) r
 # Mr. A. Gqwaka {#agqwaka}
 My research interests focus on efficiency and productivity analysis, particularly stochastic frontier analysis (SFA). I am interested in simulation-based econometric methods, especially Monte Carlo approaches, and their application to evaluating performance in sectors such as municipal service provision. 
 
-# Ms. P.H.G. Jafta
+# Ms. P.H.G. Jafta {#jafta}
+I am a researcher with a focus on spatial modelling, regionalisation methods, and algorithmic fairness. My work examines how geographic structure, spatial aggregation, and clustering influence statistical inference and equity in decision-making systems. I am particularly interested in developing statistically rigorous approaches that integrate fairness considerations into spatial analysis and predictive modelling. My research combines theoretical development, simulation studies, and applied data analysis.
 
 
 # Prof. F.H.J. Kanfer {#fkanfer}
@@ -68,7 +71,9 @@ angular, or structured datasets—and translating these into practical tools for
 research, and quantitative finance (see my Google Scholar profile [here](https://scholar.google.com/citations?hl=en&user=b_dayF8AAAAJ&view_op=list_works&gmla=AF9nlQuUbcMWXBT7dT13j0lBqbg5OOWmkuqJ5b5LKEhy9ccob_SWtJ4ZGJGYkVEhds1jLuW9RQvhdAuQOo5HCx450TZzqT6FsJwiqw)). Students who work with me typically engage in projects that balance theory and application, with a strong emphasis on
 methodological clarity, solid inference, and problems that have clear real-world relevance.
 
-# Dr. M.J.C. Malela
+# Dr. M.J.C. Malela {#jc}
+My research interests are Statistical Process control, Optimization, Design of experiments and Machine learning. My 
+Google Scholar is [here](https://scholar.google.com/citations?user=eCogaLQAAAAJ&hl=en) and my ResearchGate profile is [here](https://www.researchgate.net/profile/Jean-Claude-Malela-Majika?ev=hdr_xprf).
 
 
 # Prof. S. Manda {#smanda}
