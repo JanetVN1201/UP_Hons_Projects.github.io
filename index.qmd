@@ -39,7 +39,7 @@ grid <- expand.grid(
 )
 grid$yhat <- predict(fit, grid)
 
-plot_ly() |>
+fig <- plot_ly() |>
   add_markers(
     data = df,
     x = ~x1, y = ~x2, z = ~y,
@@ -64,6 +64,40 @@ plot_ly() |>
       zaxis = list(title = "Y")
     )
   )
+
+theta_vals <- seq(0, 2*pi, length.out = 80)
+
+radius <- 2.5
+
+frames <- lapply(theta_vals, function(theta) {
+  list(
+    layout = list(
+      scene = list(
+        camera = list(
+          eye = list(
+            x = radius * cos(theta),
+            y = radius * sin(theta),
+            z = 1.2
+          )
+        )
+      )
+    )
+  )
+})
+
+fig$x$frames <- frames
+
+# --- Animate ---
+fig <- fig %>%
+  animation_opts(
+    frame = 50,
+    transition = 0,
+    redraw = FALSE
+  ) 
+
+fig
+
+
 ```
 :::
 

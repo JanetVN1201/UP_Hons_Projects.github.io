@@ -8,7 +8,7 @@ Data is full of surprises, and I’m here to uncover them. I focus on modern sta
 
 # Dr. L. Chaka {#lchaka}
 My research interests are Statistical Process control, Optimization, Design of experiments and Machine learning. My 
-Google Scholar is [here](https://scholar.google.com/citations?user=eCogaLQAAAAJ&hl=en) and my ResearchGate profile is [here](https://www.researchgate.net/profile/Jean-Claude-Malela-Majika?ev=hdr_xprf).
+Google Scholar is [here](https://scholar.google.com/citations?user=E5WLLuUAAAAJ&amp;hl=en) and my ResearchGate profile is [here](https://www.researchgate.net/profile/Lyson-Chaka).
 
 # Mrs. L.E. Coetser {#lcoetser}
 My research interests are in statistics in education. I have two projects available within this field for 2026.
@@ -130,6 +130,6 @@ I have projects available but also get excited by your project ideas - so feel f
 Currently the research area I focus on is Statistics in Sport and Sports Analytics. See [this document](https://drive.google.com/file/d/1RtVc5aaLrbDFIJLRsoldxddQxosIblv6/view?usp=sharing) for full details. I have four Honours research projects available. Note that, where possible, I will gladly adjust the scope of any of these projects based on my Honours students' ideas and interests. You are also welcome to have a look at my research profile on Google Scholar, [here](https://scholar.google.com/citations?user=9sQzsycAAAAJ&hl=en&oi=sra).
 
 # Dr. A. Whata
-I work on causal AI. My Google Scholar is available [here](https://scholar.google.com/citations?hl=en&user=IWz4_D0AAAAJ).
+I work on causal AI. My Google Scholar is available [here](https://scholar.google.com/citations?hl=en&user=IWz4_D0AAAAJ) and my ResearchGate [here](https://www.researchgate.net/profile/Albert_Whata2).
 
 ![](cai.png){width=600}
